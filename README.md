@@ -10,7 +10,7 @@
 
 - 개발 환경: Java(JDK 1.8), HTML/CSS/JavaScript, eGovFrame(eclipse) 4.1, QGIS, PostgreSQL, DBeaver, ibatis, Apatch Tomcat 9.0 등
 
-- 프로젝트 구현 보고서 (PPT) : https://docs.google.com/presentation/d/1gdB1EgcZTTpz4AcfE-Qakk7LdlXfqpRG/edit?pli=1#slide=id.p1
+- 프로젝트 구현 보고서 (PPT) : https://drive.google.com/file/d/1MZabYF9qI_czBu5hczuHB4rJHiHczfeL/view?usp=drive_link
 
 - 프로젝트 구현 동영상 : https://drive.google.com/file/d/1x1Pfi4bodiZmsClEFr0P3bBndqbhbkdj/view?usp=drive_link
 
